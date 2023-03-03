@@ -11,7 +11,9 @@
 
 **Basic Description:**
 
- The Frontrooms is the term for anywhere inside the bounds of normal reality. It is outside The Backrooms, a statement often brought into question by the existence of **The Blue Channel**.
+    The Frontrooms is the term for anywhere inside the bounds of normal reality. It is outside The Backrooms, a statement often brought into question by the existence of **The Blue Channel**.
+
+*Example Image:* [Home.](http://backrooms-wiki.wdfiles.com/local--files/the-frontrooms/city.jpg)
 
 **Entrances and Exits:**
 

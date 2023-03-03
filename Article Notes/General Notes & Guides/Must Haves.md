@@ -18,4 +18,4 @@
     - Knee and elbow pads
     - Night vision goggles with light blocker
 
-*-The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/basics-of-the-backrooms-a-guide-*
+*- The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/basics-of-the-backrooms-a-guide -*

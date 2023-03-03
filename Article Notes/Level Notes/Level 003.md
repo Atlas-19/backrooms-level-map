@@ -11,7 +11,9 @@
 
 **General Description:**
 
- Level 3 is a series of long, dark, twisting hallways that work similarly to Level 0. They all consist of randomly segmented rooms, and are extremely loud with the noises of machinery. The hallways are very narrow and enclosed, some even requiring wanderers of average height and build to traverse.
+    Level 3 is a series of long, dark, twisting hallways that work similarly to Level 0. They all consist of randomly segmented rooms, and are extremely loud with the noises of machinery. The hallways are very narrow and enclosed, some even requiring wanderers of average height and build to traverse.
+
+*Example Image:* [A hallway down Level 3 (brightened for viewing convenience).](http://backrooms-wiki.wdfiles.com/local--resized-images/level-3/Level3/medium.jpg)
 
 **General Notes:**
 
@@ -86,4 +88,4 @@
 - Bursters
 - Crawler Fungus
 - +The high humidity makes it easy for The Disease to spread.
-*The Backrooms Wiki. (2023, March 03). Retrieved from http://backrooms-wiki.wikidot.com/level-3*
+*- The Backrooms Wiki. (2023, March 03). Retrieved from http://backrooms-wiki.wikidot.com/level-3 -*

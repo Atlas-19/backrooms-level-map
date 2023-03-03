@@ -6,4 +6,4 @@
 - Missing the last step on a flight of stairs and falling on your face. (This usually does not work, only in very select flights of stairs, the anomalous properties of said stairs disappear/move after 2 or so entries using this method.)
 - Interacting with a corrupted object, such as a glitched chair.
 
-*-The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/basics-of-the-backrooms-a-guide-*
+*- The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/basics-of-the-backrooms-a-guide -*

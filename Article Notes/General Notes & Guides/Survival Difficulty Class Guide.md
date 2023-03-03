@@ -17,4 +17,4 @@
 - **Amended:** Amended is a class given to articles that have been noticeably altered by extraordinary means. This class is not given out often, as altered documents can sometimes be difficult to notice. However, the class is always assigned to articles the moment these alterations are discovered. Levels such as Level 721 have been assigned the Amended class due to this.
 - **Omega:** Omega is assigned to levels that have been classified due to the entry containing sensitive information. Like amended, this class is given out rarely, as our mission is not to hide information from the public. This class exists for when we must do so when it is safer that the public does not know about it than if they did. An example of the Omega survival difficulty in use would be Level 302.
 
-*-The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/sd-class-guide-*
+*- The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/sd-class-guide -*

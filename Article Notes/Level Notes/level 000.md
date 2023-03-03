@@ -10,7 +10,7 @@
 
 **Basic Description:**
 
- **Level 0** is a non-linear space, resembling the back rooms of a retail outlet. Similar to its previous form, all rooms in **Level 0** appear uniform and share superficial features such as yellowed wallpaper, damp carpet, and inconsistently placed fluorescent lighting.
+    **Level 0** is a non-linear space, resembling the back rooms of a retail outlet. Similar to its previous form, all rooms in **Level 0** appear uniform and share superficial features such as yellowed wallpaper, damp carpet, and inconsistently placed fluorescent lighting.
 
 *Example Image:* [The first picture ever taken of Level 0.](http://backrooms-wiki.wdfiles.com/local--files/level-0/Thebackrooms.jpg)
 
@@ -48,4 +48,4 @@
 - **Exits:**
     - No-clipping -&gt; Level 1
 
-*-The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/level-0-*
+*- The Backrooms Wiki. (2023, March 01). Retrieved from http://backrooms-wiki.wikidot.com/level-0 -*

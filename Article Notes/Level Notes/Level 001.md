@@ -11,9 +11,9 @@
 
 **Basic Description:**
 
- Level 1 is a large, sprawling warehouse that features concrete floors and walls, exposed rebar, and a low-hanging fog with no discernable source. The fog often coalesces into condensation, forming puddles on the floor in inconsistent areas. \[...\] It is also far more expansive, possessing staircases, elevators, isolated rooms, and hallways.
+    Level 1 is a large, sprawling warehouse that features concrete floors and walls, exposed rebar, and a low-hanging fog with no discernable source. The fog often coalesces into condensation, forming puddles on the floor in inconsistent areas. \[...\] It is also far more expansive, possessing staircases, elevators, isolated rooms, and hallways.
 
-*Example Image:* \[Level 1, as originally discovered.\](http://backrooms-wiki.wdfiles.com/local--files/level-1/artistlivesinme.jpg)
+*Example Image:* [Level 1, as originally discovered.](http://backrooms-wiki.wdfiles.com/local--files/level-1/artistlivesinme.jpg)
 
 **General Notes:**
 
@@ -68,4 +68,4 @@
     - Wandering down any extended hallway often leads to **Level 2**.
     - Finding holes in the wall will lead to **Level 19**.
 
-*-The Backrooms Wiki. (2023, March 02). Retrieved from http://backrooms-wiki.wikidot.com/level-1-*
+*- The Backrooms Wiki. (2023, March 02). Retrieved from http://backrooms-wiki.wikidot.com/level-1 -*

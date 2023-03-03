@@ -9,9 +9,11 @@
 - *Secure*
 - *Low Entity Count*
 
-**Basic Description:**
+**General Description:**
 
- Level 2 consists mainly of dark, grey, concrete maintenance tunnels, stretching on for millions of miles. The walls are lined with pipes and occasionally ventilation ducts, which often contain a thick viscous black liquid. These rooms \[occasional doors\] typically house shelves with random assortments of objects, occasionally computers.
+    Level 2 consists mainly of dark, grey, concrete maintenance tunnels, stretching on for millions of miles. The walls are lined with pipes and occasionally ventilation ducts, which often contain a thick viscous black liquid. These rooms \[occasional doors\] typically house shelves with random assortments of objects, occasionally computers.
+ 
+*Example Image:* [An undetermined Entity in Level 2.](https://i.imgur.com/Hc5tL64.jpg)
 
 **General Notes:**
 
@@ -52,4 +54,4 @@
     - An absurdly proportioned, multi-colored door will lead to **Level 283**.
     - No-clipping from an extremely hot area will lead to **Level 2.1**.
 
-*-The Backrooms Wiki. (2023, March 02). Retrieved from http://backrooms-wiki.wikidot.com/level-2-*
+*- The Backrooms Wiki. (2023, March 02). Retrieved from http://backrooms-wiki.wikidot.com/level-2 -*
